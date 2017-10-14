@@ -1,0 +1,8 @@
+<resources xmlns:xlift="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+
+    <string name="customer_name">Customer Name</string>
+    <string name="thank_you">Thank You! </string>
+    <string name="order_summary_name"><xlift:g id = "name" example ="Amy">%s</xlift:g></string>
+</resources>
