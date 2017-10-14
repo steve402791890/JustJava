@@ -3,6 +3,8 @@
  * This is the package name our example uses:
  * <p>
  * package com.example.android.justjava;
+ *
+ * this is a test message for github push
  */
 package com.example.android.justjava;
 
